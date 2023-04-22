@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a simple console-based app that reads the data for a genealogical tree from a csv file and allows the user to
+This is a simple console-based app that reads the data for a genealogical tree from a CDV file and allows the user to
 search for the relation between two people in the tree.
 
 ## Requirements
